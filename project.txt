@@ -1,7 +1,8 @@
 Project: Git Practice
-Version: 1.0
+Version: 2.0
 
 Features:
 - Base structure
 - Login system
   - Remember me option
+- Payment system
